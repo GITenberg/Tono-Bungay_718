@@ -1,0 +1,45 @@
+_repo: Tono-Bungay_718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Tono-Bungay /ˌtɒnoʊˈbʌŋɡi/ is a realist semiautobiographical novel written\
+  \ by H. G. Wells and published in 1909. It has been called \"arguably his most artistic\
+  \ book\". It was originally serialized in The English Review beginning in the magazine's\
+  \ first issue in December 1908. It was serialized in the United States in The Popular\
+  \ Magazine beginning in the September 1908 issue.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '718'
+  wikidata: Q1535422
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patent medicines -- Marketing -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Pharmaceutical industry -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- GITenberg
+title: Tono-Bungay
+url: http://www.gutenberg.org/ebooks/718
+wikipedia:
+- https://fr.wikipedia.org/wiki/Tono-Bungay
+- https://pt.wikipedia.org/wiki/Tono-Bungay
+- https://de.wikipedia.org/wiki/Tono-Bungay
+- https://ru.wikiquote.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BE-%D0%91%D0%B5%D0%BD%D0%B3%D0%B5
+- https://en.wikipedia.org/wiki/Tono-Bungay
+- https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BE-%D0%91%D1%83%D0%BD%D0%B3%D0%B5
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BE-%D0%91%D0%B5%D0%BD%D0%B3%D0%B5
+- https://ro.wikipedia.org/wiki/Tono_Bungay
