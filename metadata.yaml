@@ -1,5 +1,8 @@
 _repo: Tono-Bungay_718
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -14,6 +17,8 @@ description: "Tono-Bungay /ˌtɒnoʊˈbʌŋɡi/ is a realist semiautobiographica
   \ book\". It was originally serialized in The English Review beginning in the magazine's\
   \ first issue in December 1908. It was serialized in the United States in The Popular\
   \ Magazine beginning in the September 1908 issue.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/718#Tono-Bungay
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-03-18'
 gutenberg_type: Text
